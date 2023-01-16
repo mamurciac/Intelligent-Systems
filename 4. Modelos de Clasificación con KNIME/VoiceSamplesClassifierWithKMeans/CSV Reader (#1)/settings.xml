@@ -711,7 +711,7 @@
                                 <entry key="class" type="xstring" value="java.lang.String"/>
                             </config>
                         </config>
-                        <entry key="name" type="xstring" value="label"/>
+                        <entry key="name" type="xstring" value="correctLabel"/>
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="20"/>
                         <config key="production_path">
@@ -876,6 +876,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="67f997d6-014a-4918-adc4-ddbb88225ead"/>
+        <entry key="file_store_id" type="xstring" value="9b2aa15d-c74d-4187-b31b-ede69279acc0"/>
     </config>
 </config>
