@@ -57,12 +57,12 @@
         </config>
     </config>
     <config key="nodeAnnotation">
-        <entry key="text" type="xstring" value="Selección de Columnas%%00013%%00010Necesarias"/>
+        <entry key="text" type="xstring" value="Selección de%%00013%%00010Columnas%%00013%%00010Necesarias"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="692"/>
+        <entry key="x-coordinate" type="xint" value="667"/>
         <entry key="y-coordinate" type="xint" value="179"/>
-        <entry key="width" type="xint" value="137"/>
-        <entry key="height" type="xint" value="30"/>
+        <entry key="width" type="xint" value="106"/>
+        <entry key="height" type="xint" value="45"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
         <entry key="borderSize" type="xint" value="0"/>
         <entry key="borderColor" type="xint" value="16777215"/>
@@ -97,6 +97,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7e0c8844-b29d-41c5-869d-9ebe30c13170"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
