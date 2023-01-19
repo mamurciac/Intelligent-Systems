@@ -16,16 +16,16 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="unifyHeaderPrefix" type="xstring" value="Column "/>
-        <config key="transposeColHeader_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="transposeColHeader" type="xboolean" value="true"/>
         <config key="coltype_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="coltype" type="xstring" value="All"/>
+        <config key="transposeColHeader_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="transposeColHeader" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -61,6 +61,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9bcbfcb6-568f-4f9a-a37a-714036328f42"/>
+        <entry key="file_store_id" type="xstring" value="d48d6cc8-0265-4012-b76f-693268b175d4"/>
     </config>
 </config>

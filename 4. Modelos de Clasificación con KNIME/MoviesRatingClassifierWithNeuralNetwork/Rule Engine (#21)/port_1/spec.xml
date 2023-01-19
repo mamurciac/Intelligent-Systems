@@ -215,19 +215,19 @@
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="No Reported"/>
+                        <entry key="StringCell" type="xstring" value="None"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="None"/>
+                        <entry key="StringCell" type="xstring" value="Norwegian"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Norwegian"/>
+                        <entry key="StringCell" type="xstring" value="Not Reported"/>
                     </config>
                 </config>
                 <config key="32">

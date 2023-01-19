@@ -6,16 +6,16 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="guess_or_fixed_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="guess_or_fixed" type="xstring" value="Guess chunk size based on available memory"/>
         <config key="chunk_size_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="false"/>
         </config>
         <entry key="chunk_size" type="xint" value="10"/>
+        <config key="guess_or_fixed_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="guess_or_fixed" type="xstring" value="Guess chunk size based on available memory"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -44,6 +44,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="62f2070f-a251-4484-8331-04c1cebf58c8"/>
+        <entry key="file_store_id" type="xstring" value="c9790ed2-f753-44d7-b714-f4228d25419d"/>
     </config>
 </config>

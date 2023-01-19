@@ -109,12 +109,12 @@
         <entry key="customCSS" type="xstring" value=""/>
     </config>
     <config key="nodeAnnotation">
-        <entry key="text" type="xstring" value="Visualización del%%00013%%00010Dataset Original"/>
+        <entry key="text" type="xstring" value="Visualización%%00013%%00010del Dataset%%00013%%00010Original"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="307"/>
-        <entry key="y-coordinate" type="xint" value="319"/>
+        <entry key="x-coordinate" type="xint" value="187"/>
+        <entry key="y-coordinate" type="xint" value="459"/>
         <entry key="width" type="xint" value="106"/>
-        <entry key="height" type="xint" value="30"/>
+        <entry key="height" type="xint" value="45"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
         <entry key="borderSize" type="xint" value="0"/>
         <entry key="borderColor" type="xint" value="16777215"/>
@@ -159,6 +159,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1ac964fd-ac89-4f46-a995-2c8552ccdabd"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

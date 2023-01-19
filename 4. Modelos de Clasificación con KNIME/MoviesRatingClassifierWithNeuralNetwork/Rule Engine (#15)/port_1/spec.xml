@@ -53,7 +53,7 @@
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="No Reported"/>
+                        <entry key="StringCell" type="xstring" value="Not Reported"/>
                     </config>
                 </config>
             </config>

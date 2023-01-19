@@ -31,11 +31,6 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="replaceMissingValues" type="xboolean" value="false"/>
-        <config key="enableHilite_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="enableHilite" type="xboolean" value="false"/>
         <config key="appendRowKeyCol_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -46,6 +41,11 @@
             <entry key="EnabledStatus" type="xboolean" value="false"/>
         </config>
         <entry key="newColumnName4RowKeyValues" type="xstring" value=""/>
+        <config key="enableHilite_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="enableHilite" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -74,6 +74,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c92240ee-9bff-482f-8c96-f9da66501bfc"/>
+        <entry key="file_store_id" type="xstring" value="e9e89c6d-639e-4230-baad-411197dfb514"/>
     </config>
 </config>
