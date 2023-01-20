@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="grouByColumns_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="grouByColumns">
+            <config key="InclList">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <config key="ExclList">
+                <entry key="array-size" type="xint" value="143"/>
+                <entry key="0" type="xstring" value="wasFilmedInAfghanistan"/>
+                <entry key="1" type="xstring" value="wasFilmedInArgentina"/>
+                <entry key="2" type="xstring" value="wasFilmedInAruba"/>
+                <entry key="3" type="xstring" value="wasFilmedInAustralia"/>
+                <entry key="4" type="xstring" value="wasFilmedInBahamas"/>
+                <entry key="5" type="xstring" value="wasFilmedInBelgium"/>
+                <entry key="6" type="xstring" value="wasFilmedInBrazil"/>
+                <entry key="7" type="xstring" value="wasFilmedInBulgaria"/>
+                <entry key="8" type="xstring" value="wasFilmedInCambodia"/>
+                <entry key="9" type="xstring" value="wasFilmedInCameroon"/>
+                <entry key="10" type="xstring" value="wasFilmedInCanada"/>
+                <entry key="11" type="xstring" value="wasFilmedInChile"/>
+                <entry key="12" type="xstring" value="wasFilmedInChina"/>
+                <entry key="13" type="xstring" value="wasFilmedInColombia"/>
+                <entry key="14" type="xstring" value="wasFilmedInCzech Republic"/>
+                <entry key="15" type="xstring" value="wasFilmedInDenmark"/>
+                <entry key="16" type="xstring" value="wasFilmedInDominican Republic"/>
+                <entry key="17" type="xstring" value="wasFilmedInEgypt"/>
+                <entry key="18" type="xstring" value="wasFilmedInFinland"/>
+                <entry key="19" type="xstring" value="wasFilmedInFrance"/>
+                <entry key="20" type="xstring" value="wasFilmedInGeorgia"/>
+                <entry key="21" type="xstring" value="wasFilmedInGermany"/>
+                <entry key="22" type="xstring" value="wasFilmedInGreece"/>
+                <entry key="23" type="xstring" value="wasFilmedInHong Kong"/>
+                <entry key="24" type="xstring" value="wasFilmedInHungary"/>
+                <entry key="25" type="xstring" value="wasFilmedInIceland"/>
+                <entry key="26" type="xstring" value="wasFilmedInIndia"/>
+                <entry key="27" type="xstring" value="wasFilmedInIndonesia"/>
+                <entry key="28" type="xstring" value="wasFilmedInIran"/>
+                <entry key="29" type="xstring" value="wasFilmedInIreland"/>
+                <entry key="30" type="xstring" value="wasFilmedInIsrael"/>
+                <entry key="31" type="xstring" value="wasFilmedInItaly"/>
+                <entry key="32" type="xstring" value="wasFilmedInJapan"/>
+                <entry key="33" type="xstring" value="wasFilmedInKenya"/>
+                <entry key="34" type="xstring" value="wasFilmedInKyrgyzstan"/>
+                <entry key="35" type="xstring" value="wasFilmedInLibya"/>
+                <entry key="36" type="xstring" value="wasFilmedInMexico"/>
+                <entry key="37" type="xstring" value="wasFilmedInNetherlands"/>
+                <entry key="38" type="xstring" value="wasFilmedInNew Line"/>
+                <entry key="39" type="xstring" value="wasFilmedInNew Zealand"/>
+                <entry key="40" type="xstring" value="wasFilmedInNigeria"/>
+                <entry key="41" type="xstring" value="wasFilmedInNorway"/>
+                <entry key="42" type="xstring" value="wasFilmedInNot Reported"/>
+                <entry key="43" type="xstring" value="wasFilmedInOfficial Site"/>
+                <entry key="44" type="xstring" value="wasFilmedInPakistan"/>
+                <entry key="45" type="xstring" value="wasFilmedInPanama"/>
+                <entry key="46" type="xstring" value="wasFilmedInPeru"/>
+                <entry key="47" type="xstring" value="wasFilmedInPhilippines"/>
+                <entry key="48" type="xstring" value="wasFilmedInPoland"/>
+                <entry key="49" type="xstring" value="wasFilmedInRomania"/>
+                <entry key="50" type="xstring" value="wasFilmedInRussia"/>
+                <entry key="51" type="xstring" value="wasFilmedInSlovakia"/>
+                <entry key="52" type="xstring" value="wasFilmedInSlovenia"/>
+                <entry key="53" type="xstring" value="wasFilmedInSouth Africa"/>
+                <entry key="54" type="xstring" value="wasFilmedInSouth Korea"/>
+                <entry key="55" type="xstring" value="wasFilmedInSoviet Union"/>
+                <entry key="56" type="xstring" value="wasFilmedInSpain"/>
+                <entry key="57" type="xstring" value="wasFilmedInSweden"/>
+                <entry key="58" type="xstring" value="wasFilmedInSwitzerland"/>
+                <entry key="59" type="xstring" value="wasFilmedInTaiwan"/>
+                <entry key="60" type="xstring" value="wasFilmedInThailand"/>
+                <entry key="61" type="xstring" value="wasFilmedInTurkey"/>
+                <entry key="62" type="xstring" value="wasFilmedInUk"/>
+                <entry key="63" type="xstring" value="wasFilmedInUsa"/>
+                <entry key="64" type="xstring" value="wasFilmedInUnited Arab Emirates"/>
+                <entry key="65" type="xstring" value="wasFilmedInWest Germany"/>
+                <entry key="66" type="xstring" value="rowId"/>
+                <entry key="67" type="xstring" value="isInAboriginalLanguage"/>
+                <entry key="68" type="xstring" value="isInArabicLanguage"/>
+                <entry key="69" type="xstring" value="isInAramaicLanguage"/>
+                <entry key="70" type="xstring" value="isInBosnianLanguage"/>
+                <entry key="71" type="xstring" value="isInCantoneseLanguage"/>
+                <entry key="72" type="xstring" value="isInChineseLanguage"/>
+                <entry key="73" type="xstring" value="isInCzechLanguage"/>
+                <entry key="74" type="xstring" value="isInDanishLanguage"/>
+                <entry key="75" type="xstring" value="isInDariLanguage"/>
+                <entry key="76" type="xstring" value="isInDutchLanguage"/>
+                <entry key="77" type="xstring" value="isInDzongkhaLanguage"/>
+                <entry key="78" type="xstring" value="isInEnglishLanguage"/>
+                <entry key="79" type="xstring" value="isInFilipinoLanguage"/>
+                <entry key="80" type="xstring" value="isInFrenchLanguage"/>
+                <entry key="81" type="xstring" value="isInGermanLanguage"/>
+                <entry key="82" type="xstring" value="isInGreekLanguage"/>
+                <entry key="83" type="xstring" value="isInHebrewLanguage"/>
+                <entry key="84" type="xstring" value="isInHindiLanguage"/>
+                <entry key="85" type="xstring" value="isInHungarianLanguage"/>
+                <entry key="86" type="xstring" value="isInIcelandicLanguage"/>
+                <entry key="87" type="xstring" value="isInIndonesianLanguage"/>
+                <entry key="88" type="xstring" value="isInItalianLanguage"/>
+                <entry key="89" type="xstring" value="isInJapaneseLanguage"/>
+                <entry key="90" type="xstring" value="isInKannadaLanguage"/>
+                <entry key="91" type="xstring" value="isInKazakhLanguage"/>
+                <entry key="92" type="xstring" value="isInKoreanLanguage"/>
+                <entry key="93" type="xstring" value="isInMandarinLanguage"/>
+                <entry key="94" type="xstring" value="isInMayaLanguage"/>
+                <entry key="95" type="xstring" value="isInMongolianLanguage"/>
+                <entry key="96" type="xstring" value="isInNoneLanguage"/>
+                <entry key="97" type="xstring" value="isInNorwegianLanguage"/>
+                <entry key="98" type="xstring" value="isInNot ReportedLanguage"/>
+                <entry key="99" type="xstring" value="isInPanjabiLanguage"/>
+                <entry key="100" type="xstring" value="isInPersianLanguage"/>
+                <entry key="101" type="xstring" value="isInPolishLanguage"/>
+                <entry key="102" type="xstring" value="isInPortugueseLanguage"/>
+                <entry key="103" type="xstring" value="isInRomanianLanguage"/>
+                <entry key="104" type="xstring" value="isInRussianLanguage"/>
+                <entry key="105" type="xstring" value="isInSlovenianLanguage"/>
+                <entry key="106" type="xstring" value="isInSpanishLanguage"/>
+                <entry key="107" type="xstring" value="isInSwahiliLanguage"/>
+                <entry key="108" type="xstring" value="isInSwedishLanguage"/>
+                <entry key="109" type="xstring" value="isInTamilLanguage"/>
+                <entry key="110" type="xstring" value="isInTeluguLanguage"/>
+                <entry key="111" type="xstring" value="isInThaiLanguage"/>
+                <entry key="112" type="xstring" value="isInUrduLanguage"/>
+                <entry key="113" type="xstring" value="isInVietnameseLanguage"/>
+                <entry key="114" type="xstring" value="isInZuluLanguage"/>
+                <entry key="115" type="xstring" value="rowId (right)"/>
+                <entry key="116" type="xstring" value="color"/>
+                <entry key="117" type="xstring" value="Count(movie_title)"/>
+                <entry key="118" type="xstring" value="color (right)"/>
+                <entry key="119" type="xstring" value="num_critic_for_reviews"/>
+                <entry key="120" type="xstring" value="duration"/>
+                <entry key="121" type="xstring" value="director_facebook_likes"/>
+                <entry key="122" type="xstring" value="actor_3_facebook_likes"/>
+                <entry key="123" type="xstring" value="actor_1_facebook_likes"/>
+                <entry key="124" type="xstring" value="gross"/>
+                <entry key="125" type="xstring" value="genres"/>
+                <entry key="126" type="xstring" value="movie_title"/>
+                <entry key="127" type="xstring" value="num_voted_users"/>
+                <entry key="128" type="xstring" value="cast_total_facebook_likes"/>
+                <entry key="129" type="xstring" value="facenumber_in_poster"/>
+                <entry key="130" type="xstring" value="plot_keywords"/>
+                <entry key="131" type="xstring" value="num_user_for_reviews"/>
+                <entry key="132" type="xstring" value="language"/>
+                <entry key="133" type="xstring" value="country"/>
+                <entry key="134" type="xstring" value="content_rating"/>
+                <entry key="135" type="xstring" value="budget"/>
+                <entry key="136" type="xstring" value="title_year"/>
+                <entry key="137" type="xstring" value="actor_2_facebook_likes"/>
+                <entry key="138" type="xstring" value="imdb_score"/>
+                <entry key="139" type="xstring" value="aspect_ratio"/>
+                <entry key="140" type="xstring" value="movie_facebook_likes"/>
+                <entry key="141" type="xstring" value="Selected (JavaScript Table View)"/>
+                <entry key="142" type="xstring" value="movieId"/>
+            </config>
+            <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
+        </config>
+        <config key="maxNoneNumericalVals_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="maxNoneNumericalVals" type="xint" value="10000"/>
+        <config key="enableHilite_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="enableHilite" type="xboolean" value="false"/>
+        <config key="valueDelimiter_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="valueDelimiter" type="xstring" value="|"/>
+        <config key="sortInMemory_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="sortInMemory" type="xboolean" value="false"/>
+        <config key="columnNamePolicy_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="columnNamePolicy" type="xstring" value="Aggregation method (column name)"/>
+        <config key="aggregationColumn">
+            <config key="columnNames">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="genres"/>
+            </config>
+            <config key="columnTypes">
+                <entry key="array-size" type="xint" value="1"/>
+                <config key="0">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+            </config>
+            <config key="aggregationMethod">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Concatenate_V2.4"/>
+            </config>
+            <config key="inclMissingVals">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xboolean" value="true"/>
+            </config>
+        </config>
+        <config key="aggregationOperatorSettings"/>
+        <config key="patternAggregators"/>
+        <config key="dataTypeAggregators"/>
+        <config key="retainOrder_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="retainOrder" type="xboolean" value="false"/>
+        <config key="inMemory_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="inMemory" type="xboolean" value="false"/>
+        <config key="nodeVersion_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="nodeVersion" type="xint" value="1"/>
+        <entry key="typeMatch" type="xbyte" value="0"/>
+    </config>
+    <config key="nodeAnnotation">
+        <entry key="text" type="xstring" value="Concatenación%%00013%%00010de Géneros en%%00013%%00010todas las Películas"/>
+        <entry key="bgcolor" type="xint" value="16777215"/>
+        <entry key="x-coordinate" type="xint" value="3125"/>
+        <entry key="y-coordinate" type="xint" value="859"/>
+        <entry key="width" type="xint" value="110"/>
+        <entry key="height" type="xint" value="45"/>
+        <entry key="alignment" type="xstring" value="CENTER"/>
+        <entry key="borderSize" type="xint" value="0"/>
+        <entry key="borderColor" type="xint" value="16777215"/>
+        <entry key="defFontSize" type="xint" value="9"/>
+        <entry key="annotation-version" type="xint" value="20151123"/>
+        <config key="styles"/>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.groupby.GroupByNodeFactory"/>
+    <entry key="node-name" type="xstring" value="GroupBy"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202211291414"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="4.7.0.v202211291442"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="GroupBy"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 1"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="fb9f28c1-7ba4-4fc7-af08-658888dae927"/>
+    </config>
+</config>
